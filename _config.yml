@@ -12,7 +12,7 @@ author: Sarah Masud
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "hello"
+  About Me: "aboutme"
  # Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
