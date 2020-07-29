@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Sarah is currently a 1st year Doctoral Student at the *Laboratory for Computational Social Systems, IIIT-Delhi.*
+She is also a reviewer for the Journal of Open Source Software.
+Previously, worked as a *Data Scientist* **@redhat.**
+She obtained her B.Tech in CS, from *Jamia Millia Islamia, New Delhi.*
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Fun Fact**: Sarah is an avid reader and a seasonal poet. 😉
+**Topics**: CS, NLP, Hate Speech, Social Computing, Open Source + Open Access, Entrepreneurship
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
